@@ -1,0 +1,17 @@
+F:\BlogTestProgram\BulkOperationDemo\bin\Debug\BulkOperationDemo.exe.config
+F:\BlogTestProgram\BulkOperationDemo\bin\Debug\BulkOperationDemo.exe
+F:\BlogTestProgram\BulkOperationDemo\bin\Debug\BulkOperationDemo.pdb
+F:\BlogTestProgram\BulkOperationDemo\bin\Debug\Elasticsearch.Net.dll
+F:\BlogTestProgram\BulkOperationDemo\bin\Debug\Nest.dll
+F:\BlogTestProgram\BulkOperationDemo\bin\Debug\System.Buffers.dll
+F:\BlogTestProgram\BulkOperationDemo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\BlogTestProgram\BulkOperationDemo\bin\Debug\Elasticsearch.Net.pdb
+F:\BlogTestProgram\BulkOperationDemo\bin\Debug\Elasticsearch.Net.xml
+F:\BlogTestProgram\BulkOperationDemo\bin\Debug\Nest.pdb
+F:\BlogTestProgram\BulkOperationDemo\bin\Debug\Nest.xml
+F:\BlogTestProgram\BulkOperationDemo\bin\Debug\System.Buffers.xml
+F:\BlogTestProgram\BulkOperationDemo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\BlogTestProgram\BulkOperationDemo\obj\Debug\BulkOperationDemo.csproj.CopyComplete
+F:\BlogTestProgram\BulkOperationDemo\obj\Debug\BulkOperationDemo.exe
+F:\BlogTestProgram\BulkOperationDemo\obj\Debug\BulkOperationDemo.pdb
+F:\BlogTestProgram\BulkOperationDemo\obj\Debug\BulkOperationDemo.csprojAssemblyReference.cache
